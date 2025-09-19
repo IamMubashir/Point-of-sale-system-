@@ -17,4 +17,17 @@ This POS system aims to be **professional, user-friendly, and market-ready**.
 ## 🔹 Functionalities
 - ✅ User authentication (Admin & Cashier roles)  
 - ✅ Product management (Add, Edit, Delete, View)  
-- ✅ Sales and billing (cart system, total calculation, receipt generation)
+- ✅ Sales and billing (cart system, total calculation, receipt generation)  
+- ✅ Real-time inventory updates with low stock alerts  
+- ✅ Sales history and reporting (daily/monthly)  
+- ✅ Responsive UI for desktop use  
+
+## 🔹 Tools & Technologies
+- **Frontend:** React.js  
+- **Backend:** Node.js + Express.js  
+- **Database:** MongoDB (NoSQL)  
+- **API Testing:** Postman  
+- **UI Framework:** Tailwind CSS / Bootstrap  
+- **IDE:** Visual Studio Code  
+- **Version Control:** GitHub  
+
